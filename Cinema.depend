@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1716147461 source:c:\users\mohamed\documents\cinema\main.cpp
+	<iostream>
+	"Cinema.h"
+	"Customer.h"
+	"Movie.h"
+	"Seats.h"
+	"Reservation.h"
+
+1716147522 c:\users\mohamed\documents\cinema\include\cinema.h
+	<string>
+
+1716147385 c:\users\mohamed\documents\cinema\include\customer.h
+	<string>
+
+1716147356 c:\users\mohamed\documents\cinema\include\movie.h
+	<string>
+	"Seats.h"
+
+1716147325 c:\users\mohamed\documents\cinema\include\seats.h
+	<stdexcept>
+	<iostream>
+
+1716147445 c:\users\mohamed\documents\cinema\include\reservation.h
+	<string>
+	"Customer.h"
+	"Movie.h"
+
